@@ -10,4 +10,4 @@ Funda Tan - 21801861<br />
 
 
 ### Reports
-1 - Project Specifications Report, [here](/Project Specifications Document.pdf)
+1 - Project Specifications Report, [here](/Project%20Specifications%20Document.pdf)
